@@ -2,6 +2,8 @@
 
 Verification code : WTC-BYKE72JJ
 
+Youtube video link : https://youtu.be/fYvZSoDXrB0
+
 
 # Weather Data Pipeline
 
